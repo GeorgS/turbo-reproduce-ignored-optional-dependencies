@@ -4,5 +4,10 @@
   "packageManager": "pnpm@8.15.6",
   "devDependencies": {
     "turbo": "^2.0.12-canary.3"
+  },
+  "pnpm": {
+    "ignoredOptionalDependencies": [
+      "canvas"
+    ]
   }
 }

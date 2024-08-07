@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "pkg-a": "workspace:*",
+    "react-pdf": "^9.1.0",
     "tooling-config": "workspace:*"
   }
 }
